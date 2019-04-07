@@ -1,7 +1,8 @@
 # Khorinis-Dark-Market
 
 <p>
-  <img src"img\photo1.png">
+  <img src"img/
+photo1.PNG">
 </p>
 <p>
   <img src"img/photo2.png">
