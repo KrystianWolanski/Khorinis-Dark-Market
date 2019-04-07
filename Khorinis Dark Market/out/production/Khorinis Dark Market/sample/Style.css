@@ -1,0 +1,52 @@
+.root{
+    -fx-background-color: #424242;
+    -fx-text-fill:white;
+
+
+}
+.button{
+    -fx-background-radius: 8;
+    -fx-background-color: #7f0000;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+.table-view{
+
+}
+.tab-pane .tab-header-background {
+    -fx-background-color: #7f0000;
+
+}
+
+.tab-pane .tab-header-area{
+ -fx-padding: 7 0 -1 7;
+
+}
+.tab-pane:top *.tab-header-area {
+
+
+}
+.tab-pane .tab{
+    -fx-background-color: #424242;
+    -fx-text-fill: white;
+}
+#cofnij{
+    -fx-background-color: orange;
+}
+.table-column{
+    -fx-alignment: CENTER;
+}
+.tab .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+
+}
+.text-id{
+    -fx-text-fill: red;
+}
+.anchor-pane{
+    -fx-background-color: #424242;
+}
